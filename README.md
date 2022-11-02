@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Warsame Mire
 - 👀 I’m interested in tech, cars, and sports. 
-- 🌱 I’m currently learning blockchain technology and artificial intelligence.
-- 💞️ I’m looking to collaborate on web and mobile applications that have unique social interactions.
+- 🌱 I’m currently learning blockchain technology and different web frameworks.
+- 💞️ I’m looking to collaborate on web and mobile applications.
 - 📫 Reach me by email: warsamemire@gmail.com.
 
 <!---
