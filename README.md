@@ -1,6 +1,5 @@
 
 ![Header](./header.png)
-- 👋 Hi, I’m Warsame Mire
 - 👀 I’m interested in tech, cars, and sports. 
 - 🌱 I’m currently learning about blockchain technology and different web frameworks.
 - 💞️ I’m a recent graduate looking to work as a software developer and to collaborate on web and mobile applications.
