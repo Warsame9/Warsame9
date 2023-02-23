@@ -2,7 +2,7 @@
 - Hi 👋, I'm Warsame
 - 👀 I’m interested in tech, cars, and sports
 - 🌱 I’m currently learning about blockchain technology and different web frameworks.
-- 💞️ I’m a recent graduate who loves to work on web and mobile applications.
+- 💞️ I’m a recent graduate who loves to work on web apps.
 - 📫 Reach me by email: warsamemire@gmail.com.
 
 ### :hammer_and_wrench: Languages and Tools :
