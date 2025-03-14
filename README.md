@@ -1,8 +1,12 @@
 
-- Hi 👋, I'm Warsame
-- 🌱 I’m currently learning AI Tools and different web frameworks.
-- 💞️ I’m interested in tech, cars, and films.
-- 📫 Reach me by email: warsamemire@gmail.com.
+👋 Hi, I'm Warsame Mire!
+🚀 Software Developer | Full-Stack | AI Enthusiast
+
+I specialize in building scalable web applications and AI-driven tools. Passionate about JavaScript, React, Node.js, Python, and cloud technologies, I love solving complex problems and optimizing systems for efficiency.
+
+🔹 Currently working on ThawAI – an AI-powered cold email outreach tool.
+
+💡 Always learning and experimenting with AI, SaaS, and cloud computing.
 
 ### :hammer_and_wrench: Languages and Tools :
 
