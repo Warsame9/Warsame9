@@ -3,7 +3,7 @@
 
 🚀 Aspiring Business Analyst with development skills 
 
-I focus on building scalable web applications and AI-driven tools. With a strong interest in SaaS, I leverage technologies like JavaScript, React, Node.js, Python, and cloud platforms to solve complex problems and improve system efficiency.
+📕 I focus on building scalable web applications and AI-driven tools. With a strong interest in SaaS, I leverage technologies like JavaScript, React, Node.js, Python, and cloud platforms to solve complex problems and improve system efficiency.
 
 🔹 Currently working on Aurorae - A future marketplace for green tech 
 
