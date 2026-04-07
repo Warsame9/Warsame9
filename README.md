@@ -1,12 +1,12 @@
 
 👋 Hi, I'm Warsame Mire!
-🚀 Software Developer | Full-Stack | AI Enthusiast
+🚀 Aspiring Business Analyst with development skills 
 
-I specialize in building scalable web applications and AI-driven tools. Passionate about JavaScript, React, Node.js, Python, and cloud technologies, I love solving complex problems and optimizing systems for efficiency.
+I focus on building scalable web applications and AI-driven tools. With a strong interest in SaaS, I leverage technologies like JavaScript, React, Node.js, Python, and cloud platforms to solve complex problems and improve system efficiency.
 
-🔹 Currently working on ThawAI – an AI-powered cold email outreach tool.
+🔹 Currently working on Aurorae - A future marketplace for green tech 
 
-💡 Always learning and experimenting with AI, SaaS, and cloud computing.
+💡 Always learning and experimenting with AI, SaaS, and cloud computing
 
 ### :hammer_and_wrench: Languages and Tools :
 
